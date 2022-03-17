@@ -7,3 +7,5 @@
 - Volar [Johnson Chu]
 - JavaScript and TypeScript Nightly [Microsoft]
 - ESLint [Microsoft]
+
+- YARN - npm install --global yarn
